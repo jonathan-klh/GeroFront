@@ -1,0 +1,12 @@
+{
+    "name": "deleray/gero-front",
+    "authors": [
+        {
+            "name": "deleray",
+            "email": "deleray.jonathan@hotmail.com"
+        }
+    ],
+    "require": {
+        "components/jquery": "^3.3"
+    }
+}
